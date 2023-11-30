@@ -1,0 +1,54 @@
+body {
+      background-image: url("../images/bg_img.png");
+      background-size: cover;
+      background-position: center;
+      background-repeat:no-repeat;
+      height: 100%;
+      margin:0px;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: sans-serif;
+  }
+
+  .page1{
+    height: 100vh;
+  }
+  .topofimg{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 100px;
+    /* padding: 10px; */
+  
+  }
+  .Desc{
+    font-size: 25px;
+    margin-left: 600px;
+    margin-top: 120px;
+    line-height: 35px;
+  }
+  @media screen and (max-width: 768px) {
+    .Desc{
+      font-size: 25px;
+      margin-left: 100px;
+      margin-top: 500px;
+      line-height: 35px;
+  
+    }
+  }
+  
+  
+  .tara{
+    margin-bottom: : 10px;
+    margin-left: 200px;
+    font-size: 50px;
+    text-decoration-color:linear-gradient(180deg, #6A3EE4,0%, #2A8FD5 100%);
+  }
+  .add{
+    width: 300px;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 820px;
+    background-image: linear-gradient(180deg, #6A3EE4 0%, #2A8FD5 100%);
+    font-size: 23px;
+  }
