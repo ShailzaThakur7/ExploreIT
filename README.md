@@ -25,5 +25,5 @@ Feel free to contribute by opening issues or pull requests. Your suggestions and
 
 
 ---
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=flat&logo=github&colorB=blue&label=Stars)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat&logo=github&colorB=blue&label=Forks)](https://github.com/your-username/your-repo/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=flat&logo=github&colorB=blue&label=Stars)](https://github.com/ShailzaThakur7/ExploreIT)
+[![GitHub Forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat&logo=github&colorB=blue&label=Forks)](https://github.com/ShailzaThakur7/ExploreIT)
